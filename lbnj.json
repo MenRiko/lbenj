@@ -1,1 +1,380 @@
-ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"01. Galaxy",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=37384",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+      {
+         "song_name":"02. poke",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=37479",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+      {
+         "song_name":"03. sowelni",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=37621",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"04. Celibataire",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=38111",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"05. Re",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=38582",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"06. Sunisup",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=38746",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"07. Charbon",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=38917",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"08. Holiday",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=38960",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"09. Blanc Noir",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=39055",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"10. Anti",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=40048",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"11. Tika Tika",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=40291",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"12. La Baraka",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=40500",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"13. Gha Fdriba",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=40602",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"14. Wow",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=40752",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"15. Jouj Ter9an",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=43147",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"16. Nari Nari ",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=43149",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"17. KEDABA Ft. MORO",
+         "artist":"Mbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=43151",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"18. La Trace",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=43153",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"19. Skr",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=43155",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"20. 1000cc",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=43156",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"21. Amoureux Tombe",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=45901",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"22. Soso",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=46696",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"23. Classe",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=47647",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"24. Nwaar",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=47653",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"25. Baghin",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=47656",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"26. T MAX",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=47660",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"27. Affaires",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=48849",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"28."Animal,
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=48876",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"29. Lbayda",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=48856",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"30. Fondo",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=49163",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"31. Sbitar",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=49312",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"32. Gratata",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=49346",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"33. Jam La Jiti",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=49474",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"34. Venga",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=49612",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"35. Dellali",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=49910",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"36. Chicha",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=50008",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"37. Loto",
+         "artist":"Lbenj",
+         "song_link":"https://www.nozika.co/down.php?s_id=50028",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"38. Mondial",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=22180",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"39. Nokssem B Lah",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=22181",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"40. Kabtek Wilaytek",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=19377",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"41. Fiha Tbiaa",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=19378",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"42. Entouma Waarine",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=19379",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"43. Hbibi Meryouli (Duo Cheba Sihem)",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=19380",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"44. Diroulha Laakal",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=19381",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"45. Hia Oula Oualo",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=19382",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"46. Appel Masque",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=19383",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"47. Zine Bladi (Duo Abdou Dariassa)",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=19384",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"48. Hchitihali Plusieurs Fois ",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=18479",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"49. Ana Wiyak Nsakrou Lioum ",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=18480",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"50. Ma Ndirek Fi Bali",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=18481",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"51. El Ghorba Oual Ham",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=18482",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"52. Haya Omri",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=18483",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"53. Zine El Kamel",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=18484",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"54. Ne Me Quitte Pas Omri",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=18485",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"55. Ma Ndir Essaheb",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21732",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"56. Ta3ia We Tben",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21733",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"57. Cherka Halka",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21734",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"58. Hommage A Lartiste",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21736",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"59. Cest Pas Donné",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21737",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"60. Baby",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21738",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      },
+        {
+         "song_name":"61. Ntia Hia",
+         "artist":"Cheb Akil",
+         "song_link":"https://www.nozika.co/down.php?s_id=21739",
+         "image":"https://od.lk/s/NzJfNDQwNTQ3NzRf/Cheb%20Akil.png"
+      }
+   ]
+}
